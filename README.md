@@ -15,6 +15,12 @@ This is a coding challenge to build a full stack web app to allow users to manag
 * Express JS
 * Node JS
 * Javascript
+* Mongoose
+* MongoDB/Atlas
+* JOI
+* JSONWebToken
+* Argon2
+* DotENV
 
 
 <!-- GETTING STARTED -->
