@@ -36,6 +36,10 @@ app.use(
 app.use('/api/v1', usersRouter)
 app.use('/api/v1/products', productsRouter)
 
+app.get('/', (req, res) => {
+    res.status(200).json(`Server is ready!`)
+})
+
 // =====================================
 //         Initialize MongoDB
 // =====================================
