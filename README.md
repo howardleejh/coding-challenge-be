@@ -1,10 +1,9 @@
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
 <h3 align="center">Coding Challenge Backend API</h3>
 </div>
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -16,6 +15,7 @@ This is a coding challenge to build a full stack web app to allow users to manag
 * Express JS
 * Node JS
 * Javascript
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -47,14 +47,16 @@ Please ensure you have the following: NPM and NODE
    const KEY = 'ENTER YOUR VALUE';
    ```
 
+
 <!--  API ROUTES -->
+
+## API Routes
 
 [Backend API](https://coding-challenge-be.herokuapp.com) can also be found below:
 ```sh
 https://coding-challenge-be.herokuapp.com
 ```
 
-## API Routes
 
 ### Users
 
@@ -69,6 +71,7 @@ https://coding-challenge-be.herokuapp.com
 
 <br />
 
+
 ### Products
 
 | **URL** | **Method** | **Actions** |
@@ -81,6 +84,8 @@ https://coding-challenge-be.herokuapp.com
 | /api/v1/users/products/:sku | GET | displays a product with SKU with route params
 
 <br />
+
+
 
 <!-- LICENSE -->
 ## License
