@@ -48,6 +48,12 @@ Please ensure you have the following: NPM and NODE
    ```
 
 <!--  API ROUTES -->
+
+[Backend API](https://coding-challenge-be.herokuapp.com) can also be found below:
+```sh
+https://coding-challenge-be.herokuapp.com
+```
+
 ## API Routes
 
 ### Users
